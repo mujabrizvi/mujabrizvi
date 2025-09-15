@@ -36,6 +36,11 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-![My GitHub stats](https://github-readme-stats-psi-five-10.vercel.app/api?username=mujabrizvi&show_icons=true&theme=radical)  
+<p align="left">
+  <img src="https://github-readme-stats-psi-five-10.vercel.app/api?username=mujabrizvi&show_icons=true&theme=algolia&count_private=true" alt="My GitHub stats" height="180" />
+  <img src="https://github-readme-stats-psi-five-10.vercel.app/api/top-langs?username=mujabrizvi&layout=compact&langs_count=8&count_private=true&theme=algolia" alt="Top Languages" height="180" style="margin-left: 30px;" />
+</p>
 
-![Top Languages](https://github-readme-stats-psi-five-10.vercel.app/api/top-langs?username=mujabrizvi&layout=compact&langs_count=8)
+
+
+
