@@ -2,7 +2,7 @@
 <h3 align="center">Senior Software Engineer @ We Better Ai</h3>
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@mujababbas)  
-- 💬 Ask me about **React.js, React Native, Next.js, Flutter**  
+- 💬 Ask me about **React.js, React Native, Next.js, Flutter, TypeScript**  
 - 📫 Reach me at **mujababbas@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
